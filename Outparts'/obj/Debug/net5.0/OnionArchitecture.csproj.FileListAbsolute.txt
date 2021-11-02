@@ -1,0 +1,7 @@
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.csproj.AssemblyReference.cache
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.AssemblyInfoInputs.cache
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.AssemblyInfo.cs
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rj\source\repos\OnionArchitecture\OnionArchitecture\obj\Debug\net5.0\OnionArchitecture.MvcApplicationPartsAssemblyInfo.cache
